@@ -1,7 +1,6 @@
 # OBR-2026
 Este repositório tem como objetivo documentar todo o processo de desenvolvimento de um robô autônomo para a Olimpíada Brasileira de Robótica (OBR) (modalidade prática de resgate), incluindo decisões técnicas e evolução do projeto.
 
----
 
 ## Objetivo
 Construir um robô capaz de:
@@ -9,7 +8,7 @@ Construir um robô capaz de:
 - Desviar de obstáculos
 - (Futuro) Resgatar vítimas (bolinhas)
 
----
+
 
 ## Equipe
 - Beatryce A. C. N. 
@@ -17,12 +16,12 @@ Construir um robô capaz de:
 - Heitor M. V. R.
 - Leonardo W.
 
----
+
 
 ## Status do Projeto
 **Status:** Planejamento
 
----
+
 
 ## Hardware (planejado)
 - Arduino Uno R3  
@@ -31,7 +30,7 @@ Construir um robô capaz de:
 - Driver TB6612  
 - Sensor ultrassônico HC-SR04  
 
----
+
 
 ## Estratégia
 O projeto está sendo desenvolvido de forma incremental:
@@ -40,7 +39,7 @@ O projeto está sendo desenvolvido de forma incremental:
 2. Desvio de obstáculos  
 3. Sistema de resgate  
 
----
+
 
 ## Estrutura do Repositório
 ```
@@ -50,7 +49,7 @@ O projeto está sendo desenvolvido de forma incremental:
 └── diario/
 ```
 
----
+
 
 ## Diário de Desenvolvimento
 O progresso do projeto é documentado em:
