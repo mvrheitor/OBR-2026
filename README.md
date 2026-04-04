@@ -45,8 +45,11 @@ O projeto está sendo desenvolvido de forma incremental:
 ## Estrutura do Repositório
 
 .
+
 ├── README.md
+
 ├── decisoes.md
+
 └── diario/
 
 ---
