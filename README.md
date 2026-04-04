@@ -43,18 +43,16 @@ O projeto está sendo desenvolvido de forma incremental:
 ---
 
 ## Estrutura do Repositório
-
+```
 .
-
 ├── README.md
-
 ├── decisoes.md
-
 └── diario/
+```
 
 ---
 
 ## Diário de Desenvolvimento
 O progresso do projeto é documentado em:
 
-/diario/
+[/diario/](https://github.com/mvrheitor/OBR-2026/tree/main/diario)
