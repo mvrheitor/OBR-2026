@@ -12,9 +12,9 @@ Construir um robô capaz de:
 
 ## Equipe
 - Beatryce A. C. N. 
-- Caio H. R.
 - Heitor M. V. R.
 - Leonardo W.
+- Yuri Neves dos Santos
 
 
 
