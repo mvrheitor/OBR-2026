@@ -14,7 +14,7 @@ Construir um robô capaz de:
 - Beatryce A. C. N. 
 - Heitor M. V. R.
 - Leonardo W.
-- Yuri Neves dos Santos
+- Yuri N. S.
 
 
 
