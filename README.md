@@ -46,7 +46,9 @@ O projeto está sendo desenvolvido de forma incremental:
 .
 ├── README.md
 ├── decisoes.md
-└── diario/
+├── diario/
+└── codigos/
+    └── tinkercad/
 ```
 
 
@@ -55,3 +57,12 @@ O projeto está sendo desenvolvido de forma incremental:
 O progresso do projeto é documentado em:
 
 [/diario/](https://github.com/mvrheitor/OBR-2026/tree/main/diario)
+
+
+
+## Códigos
+Os códigos desenvolvidos durante estudos, testes e simulações são armazenados em:
+
+[/codigos/](https://github.com/mvrheitor/OBR-2026/tree/main/codigos)
+
+A pasta `codigos/tinkercad/` contém códigos utilizados em simulações no Tinkercad antes dos testes no hardware real.
